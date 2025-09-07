@@ -1,0 +1,42 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Visual Studio / Rider
+.vs/
+*.user
+*.suo
+*.userprefs
+.idea/
+*.csproj
+*.sln
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+
+# Crash/Reports
+.sysinfo
+*.stacktrace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Addressables / Cache
+[Aa]sset[Bb]undles/
+[Aa]ddressable[Aa]ssets[Dd]ata/*/Build*
+[Aa]ddressable[Aa]ssets[Dd]ata/*/Windows*
+[Aa]ddressable[Aa]ssets[Dd]ata/*/Android*
+[Aa]ddressable[Aa]ssets[Dd]ata/*/iOS*
+
+# Do NOT ignore these (tracked folders)
+# Assets/
+# Packages/
+# ProjectSettings/
